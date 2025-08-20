@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>SCREEN 4</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <h1>Página del Proyecto</h1>
+  <p>Aquí puedes poner información sobre el proyecto.</p>
+
+  <a href="https://es.wikipedia.org/wiki/Proyecto" target="_blank" class="btn">Leer en Wikipedia</a>
+
+</body>
+</html>

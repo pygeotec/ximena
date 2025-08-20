@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>SCREEN 2</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="card">
+    <h1><i>Menú Principal</i></h1>
+    <a href="screen3.html" class="btn">Juegos</a>
+    <a href="screen4.html" class="btn">Proyecto</a>
+    <a href="screen5.html" class="btn">Desarrolladores</a>
+  </div>
+</body>
+</html>

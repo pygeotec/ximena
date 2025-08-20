@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>SCREEN 5</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <div class="card">
+    <h1>Te muestro quienes son los desarrolladores de este proyecto</h1>
+    
+    <ul>
+      <li>
+        <strong>Carlos Irala</strong><br>
+        Edad: 18<br>
+        Especialidad: Monografía, cuaderno de campo, trifolio.<br>
+        <a href="https://www.instagram.com/iralxc4rlz/">Instagram</a>
+      </li>
+      <br>
+      <li>
+        <strong>Monserrath Ruiz</strong><br>
+        Edad: 18<br>
+        Especialidad: Programación.<br>
+        <a href="https://www.instagram.com/monseeeruiz_/?next=%2F">Instagram</a>
+      </li>
+    </ul>
+
+    <a href="https://www.ueno.com.py/" target="_blank" class="btn">Deseo donar dinero al proyecto</a>
+  </div>
+
+</body>
+</html>
